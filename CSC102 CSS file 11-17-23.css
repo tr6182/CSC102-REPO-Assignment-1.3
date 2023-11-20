@@ -1,0 +1,55 @@
+/* Andrew Solorio*/
+body
+{
+  background-image: linear-gradient(rgb(130, 255, 47),rgb(115, 9, 214));
+  background-repeat: no-repeat;
+}
+#buttonsJC {
+    background-color: blue;
+    color:red;
+}
+p
+{
+    text-align: center;
+    font-size: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color:whitesmoke;
+    text-decoration:dotted;
+    text-decoration-color: red;
+}
+
+nav
+{
+    background-color: aquamarine;
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+button
+{
+    color:blueviolet;
+    background-color: antiquewhite;
+    border-width: 20px;
+    height: 100px;
+    width: 200px;
+    border-radius: 50px;
+
+  
+}
+#dumbMeme.jpg
+{
+margin-right: 200px;
+}
+#DOGE.jpg
+{
+margin-right: 200px;
+}
+footer
+{
+background-color:darkgreen;
+color: chocolate;
+}
